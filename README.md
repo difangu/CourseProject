@@ -1,5 +1,7 @@
 # Generating Semantic Annotations for Frequent Patterns with Context Analysis
 
+# [Click Here for Voiced Presentation & Demo](https://mediaspace.illinois.edu/media/t/1_xsvj5ffh) #
+
 Oftentimes, users found it’s hard to fathom the information that they barely learnt before. For example, how are we able to answer the question, “what is data science?”, especially to an outsider? How are we able to clarify the definition of “data science” or “computer science” by borrowing more basic or common words or terms to further help our users to understand? Our implementation of a semantic annotation algorithm based on the paper, “Generating semantic annotations for frequent patterns with context analysis”,  can achieve the goal. The final goal is to automatically decipher certain words, terms, and even sentences by providing its highly-associated while distinct frequent patterns in semantic text form. 
 
 In our case, to be more specific, we used the algorithm to summarize what specialty each college published in major computer science conferences. The Digital Bibliography & Library Project (DBLP) computer science bibliography acts as good study material for our project. It contains the metadata of more than 1.8 million publications in thousands of journals and conferences proceeding series written by over 1 million authors. It first started to be a bibliography on database systems and logic programming but has since expanded to all fields of computer science.
