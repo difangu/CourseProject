@@ -1,6 +1,6 @@
 # Generating Semantic Annotations for Frequent Patterns with Context Analysis
 
-# [Click Here for Voiced Presentation & Demo](https://mediaspace.illinois.edu/media/t/1_xsvj5ffh) #
+# [Click Here for Voiced Presentation & Demo for Grader](https://mediaspace.illinois.edu/media/t/1_xsvj5ffh) #
 
 Oftentimes, users found it’s hard to fathom the information that they barely learnt before. For example, how are we able to answer the question, “what is data science?”, especially to an outsider? How are we able to clarify the definition of “data science” or “computer science” by borrowing more basic or common words or terms to further help our users to understand? Our implementation of a semantic annotation algorithm based on the paper, “Generating semantic annotations for frequent patterns with context analysis”,  can achieve the goal. The final goal is to automatically decipher certain words, terms, and even sentences by providing its highly-associated while distinct frequent patterns in semantic text form. 
 
